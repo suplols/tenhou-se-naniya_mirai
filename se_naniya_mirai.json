@@ -1,11 +1,11 @@
 {
   "ver":1.0,
   "se":{
-    "25":{"url":"https://raw.githubusercontent.com/suplols/tenhou-se-naniya_mirai/main/pon.wav"},
-    "27":{"url":"https://raw.githubusercontent.com/suplols/tenhou-se-naniya_mirai/main/kan.wav"},
-    "29":{"url":"https://raw.githubusercontent.com/suplols/tenhou-se-naniya_mirai/main/chii.wav"},
-    "31":{"url":"https://raw.githubusercontent.com/suplols/tenhou-se-naniya_mirai/main/riichi.wav"},
-    "33":{"url":"https://raw.githubusercontent.com/suplols/tenhou-se-naniya_mirai/main/ron.wav"},
-    "35":{"url":"https://raw.githubusercontent.com/suplols/tenhou-se-naniya_mirai/main/tsumo.wav"}
+    "25":{"url":"https://raw.githubusercontent.com/suplols/tenhou-se-naniya_mirai/main/pon.mp3"},
+    "27":{"url":"https://raw.githubusercontent.com/suplols/tenhou-se-naniya_mirai/main/kan.mp3"},
+    "29":{"url":"https://raw.githubusercontent.com/suplols/tenhou-se-naniya_mirai/main/chii.mp3"},
+    "31":{"url":"https://raw.githubusercontent.com/suplols/tenhou-se-naniya_mirai/main/riichi.mp3"},
+    "33":{"url":"https://raw.githubusercontent.com/suplols/tenhou-se-naniya_mirai/main/ron.mp3"},
+    "35":{"url":"https://raw.githubusercontent.com/suplols/tenhou-se-naniya_mirai/main/tsumo.mp3"}
   }
 }
